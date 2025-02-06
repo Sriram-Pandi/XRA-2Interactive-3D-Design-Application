@@ -1,7 +1,7 @@
 # XR App 2 - Interactive 3D Design Application
 
 ## 📥 Files Included
-- **[APK File](#)** - Install and test the VR app on Meta Quest [**Here**](https://drive.google.com/file/d/1WPTiMYCWfmqj7u0IcHheHu_YI-jh3zRq/view?usp=sharing)
+- **APK File** - Install and test the VR app on Meta Quest [**Here**](https://drive.google.com/file/d/1WPTiMYCWfmqj7u0IcHheHu_YI-jh3zRq/view?usp=sharing)
 - **Unity Project Files** - Explore the source code and scene setup [**Here**](https://drive.google.com/file/d/1oSr2a9_4f_Br5H6ZI9DORrXehy5VEE5j/view?usp=sharing)
 
 ## Overview
