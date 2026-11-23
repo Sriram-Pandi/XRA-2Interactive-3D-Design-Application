@@ -33,3 +33,7 @@ XR App 2 expands upon the foundation of XR App 1, transforming it into an immers
 
 ## Results
 This application delivers an intuitive and polished 3D design experience, enabling users to visualize, modify, and interact with virtual objects dynamically. With enhanced UI and mechanics, XR App 2 provides an engaging platform for creative exploration.
+
+## Local evaluation
+
+Check the linked Unity project’s editor version before importing it. On the target headset, verify object selection, placement, and manipulation against the scenarios described above. The project archive and APK are hosted externally.
